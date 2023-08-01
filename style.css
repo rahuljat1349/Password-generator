@@ -51,6 +51,7 @@ button {
     border: none;
     transition: all .1s ease-in;
     margin: .5rem;
+    cursor:pointer;
 }
 
 
